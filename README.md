@@ -10,11 +10,12 @@
 
 
 # Screenshots
-| <img src="https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/1.JPG" width="250"> | <img src="https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/3.JPG" width="250"> |
-
 ![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/1.JPG)
+<br>
 ![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/2.JPG)
+<br>
 ![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/3.JPG)
+<br>
 ![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/4.JPG)
 
 
