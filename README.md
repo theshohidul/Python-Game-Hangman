@@ -10,5 +10,9 @@
 
 
 # Screenshots
+![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/1.JPG)
+![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/2.JPG)
+![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/3.JPG)
+![img](https://raw.githubusercontent.com/theshohidul/Python-Game-Hangman/master/screenshots/4.JPG)
 
 
