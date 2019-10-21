@@ -68,7 +68,7 @@ class Hangman:
             hint = [l if l in guess else "_" for l in word]
             print ("\nGuess the word : ", end="")
             print (" ".join(hint) )
-            print (f"Turns left : {turns}" )
+            print ("Turns left : ", turns )
             
             if word == ("".join(hint) ) :
                 print ("\nThanks for saving a life.")
